@@ -1,6 +1,8 @@
-Privacy Policy MEDFESTCARE NG built the Medfestcare app as a HealthTech app. This SERVICE is provided by MEDFESTCARE NG and is intended for use as is.
+Privacy Policy
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+MEDFESTCARE NG built the Medfestcare app as a HealthTech app. This SERVICE is provided by MEDFESTCARE NG and is intended for use as is.
+
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. This notice tells you things like what information we use to provide you with our bundle of healthcare services, how we use your information to keep you safe, and the choices and controls available to you. This notice also tells you about your privacy rights and how data protection rules work to protect everyone.
 
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
@@ -8,19 +10,31 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Information Collection and Use
 
+  We only process information that we need, so we can provide you with the best service on our healthcare service.
+
 For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-The app does use third-party services that may collect information used to identify you.
+Each time you visit the Medfest App or use the Medfest App we may automatically collect the following information:
 
-Link to the privacy policy of third-party service providers used by the app
+  1) Contact details: things like name, phone number and e-mail address. For our services we might require a little more, like your home address.
+  2) Geolocation: such as where you are, or the location of nearby registered medical facilities to you, the time, the journey progression and the distance of your trip to get there.
+  3) Technical information, including the type of mobile device you use, unique device identifiers (for example, your Device's IMEI or serial number), Device’s location and time zone setting (Device Information);
+  4) Link to the privacy policy of third-party service providers used by the app
+
+Information we receive from other sources (Third Party Information).
+  Due to the nature of the Services which we provide, we are required to work with a number of third parties (including e-payment providers) and we may receive information about you from them.
 
 Google Play Services Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
+Location information
+
+  We may also use GPS technology OR other location services to determine your current location. You can withdraw your consent to our collection, processing or use of this information at any time by logging out and uninstalling the App from your Device.
+
 Cookies
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+  Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
 This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
