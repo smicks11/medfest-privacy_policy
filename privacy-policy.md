@@ -28,7 +28,7 @@ Google Play Services Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
 
-Location information
+Usage of Location Data
 
   We may also use GPS technology OR other location services to determine your current location. You can withdraw your consent to our collection, processing or use of this information at any time by logging out and uninstalling the App from your Device.
 
