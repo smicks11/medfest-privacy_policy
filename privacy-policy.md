@@ -1,6 +1,6 @@
 Privacy Policy
 
-MEDFESTCARE NG built the Medfestcare app as a HealthTech app. This SERVICE is provided by MEDFESTCARE NG and is intended for use as is.
+MEDFESTCARE NG built the Medfestcare app as a HealthCare app. This SERVICE is provided by MEDFESTCARE NG and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. This notice tells you things like what information we use to provide you with our bundle of healthcare services, how we use your information to keep you safe, and the choices and controls available to you. This notice also tells you about your privacy rights and how data protection rules work to protect everyone.
 
